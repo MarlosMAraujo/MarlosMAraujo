@@ -12,5 +12,4 @@
   
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/MarlosMAraujo/count.svg" /></p>
-  
-  ![Snake animation](https://github.com/MarlosMAraujo/rtenorioh/blob/output/github-contribution-grid-snake.svg)
+
